@@ -28,4 +28,6 @@
     <string name="import_vcard" msgid="5104299047930666528">"^1 가져오기"</string>
     <string name="mime_display_name" msgid="5926357152623764485">"NFC 태그의 데이터"</string>
     <string name="vcard_title" msgid="7122634780732426007">"^1에 대한 연락처 정보"</string>
+    <!-- no translation found for call_phone_permission_denied (8515177111984654599) -->
+    <skip />
 </resources>
