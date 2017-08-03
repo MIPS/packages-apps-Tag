@@ -28,4 +28,6 @@
     <string name="import_vcard" msgid="5104299047930666528">"នាំចូល ^1"</string>
     <string name="mime_display_name" msgid="5926357152623764485">"ទិន្នន័យ​ពី​ស្លាក NFC"</string>
     <string name="vcard_title" msgid="7122634780732426007">"ព័ត៌មាន​ទំនាក់ទំនង​សម្រាប់ ^ 1"</string>
+    <!-- no translation found for call_phone_permission_denied (8515177111984654599) -->
+    <skip />
 </resources>

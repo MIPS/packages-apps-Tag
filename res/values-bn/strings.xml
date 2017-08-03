@@ -28,4 +28,6 @@
     <string name="import_vcard" msgid="5104299047930666528">"^1 আমদানি করুন"</string>
     <string name="mime_display_name" msgid="5926357152623764485">"NFC ট্যাগ থেকে পাওয়া ডেটা"</string>
     <string name="vcard_title" msgid="7122634780732426007">"^ 1 এর জন্য যোগাযোগ তথ্য"</string>
+    <!-- no translation found for call_phone_permission_denied (8515177111984654599) -->
+    <skip />
 </resources>
