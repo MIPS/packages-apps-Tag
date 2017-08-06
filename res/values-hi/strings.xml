@@ -28,4 +28,5 @@
     <string name="import_vcard" msgid="5104299047930666528">"^1 आयात करें"</string>
     <string name="mime_display_name" msgid="5926357152623764485">"NFC टैग से डेटा"</string>
     <string name="vcard_title" msgid="7122634780732426007">"^1 के लिए संपर्क जानकारी"</string>
+    <string name="call_phone_permission_denied" msgid="8515177111984654599">"कॉल करने के लिए इस ऐप्लिकेशन को टेलीफ़ोन अनुमति एक्सेस करनी होगी. आप सेटिंग में जाकर टैग अनुमति संभाल सकते हैं"</string>
 </resources>
